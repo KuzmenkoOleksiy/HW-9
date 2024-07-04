@@ -1,0 +1,17 @@
+h1{color: rgb(100, 100, 236);}
+h2{color: #ffd700;}
+.s{color: rgb(251, 251, 120);} 
+.c{color: gold;}
+.z{
+    background-color: rgb(249, 207, 0);
+    list-style: none;
+    border: 9px solid rgb(89, 85, 85);
+    width: 1400px;
+}
+.x{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+body{
+    background-color: rgb(143, 146, 125);
+}
